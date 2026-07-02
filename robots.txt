@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mckinney-texas.appdevelopmentagency.app/sitemap.xml
